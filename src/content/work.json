@@ -1,9 +1,24 @@
 [
   {
     "id": 1,
-    "duration": "2024 - present",
-    "company": "Astro Community",
-    "title": "Astro Theme",
-    "description": "Existing as an Astro theme for anyone to use."
+    "duration": "2022",
+    "company": "Grupo ARI",
+    "title": "Full Stack Developer",
+    "description": "Developed an e-commerce platform with PHP (Laravel). Enhanced database structures and implemented interactive frontend features using JavaScript."
+  },
+  {
+    "id": 2,
+    "duration": "2022",
+    "company": "Bitbox",
+    "title": "Java Backend Developer",
+    "description": "Built CRM and HRM tools with Java and Spring Boot. Improved database performance, developed APIs, and contributed React features to boost frontend usability."
+  },
+  {
+    "id": 3,
+    "duration": "2022 - 2024",
+    "company": "The Agile Monkeys",
+    "title": "Cybersecurity Manager",
+    "description": "Managed IT security operations across AWS, GCP, and Azure. Led penetration testing, risk assessments (ISO27000), and implemented DevSecOps practices. Rolled out SSO and MDM solutions while coordinating cross-timezone teams."
   }
+
 ]

@@ -19,10 +19,10 @@ export default defineConfig({
     mdx(),
     sitemap(),
     spectre({
-      name: 'Spectre',
+      name: 'SecureMoth_',
       openGraph: {
         home: {
-          title: 'Spectre',
+          title: 'SecureMoth_',
           description: 'A minimalistic theme for Astro.'
         },
         blog: {
