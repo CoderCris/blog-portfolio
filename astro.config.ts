@@ -8,6 +8,7 @@ import spectre from './package/src';
 import node from '@astrojs/node';
 import { spectreDark } from './src/ec-theme';
 
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://codercris.github.io',
