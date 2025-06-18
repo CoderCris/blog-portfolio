@@ -21,7 +21,7 @@ jobs:
         uses: withastro/action@v4
 
       - name: Upload artifact to deploy
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           path: ./dist  # Asegúrate que tu salida esté en "dist"
 
